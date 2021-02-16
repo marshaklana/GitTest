@@ -1,6 +1,6 @@
 name = ['larry','Jerry','Anna','David']
 print(name[2])
-name.append('Lana')
+name.append('Sonya')
 print(name)
 name.sort()
 print(name)
